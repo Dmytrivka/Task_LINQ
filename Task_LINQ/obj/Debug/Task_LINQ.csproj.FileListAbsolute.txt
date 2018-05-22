@@ -1,0 +1,6 @@
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\bin\Debug\Task_LINQ.exe.config
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\obj\Debug\Task_LINQ.csprojResolveAssemblyReference.cache
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\bin\Debug\Task_LINQ.exe
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\bin\Debug\Task_LINQ.pdb
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\obj\Debug\Task_LINQ.exe
+d:\універ\2 курс\програмування\2-гий смстр\Task_LINQ\Task_LINQ\obj\Debug\Task_LINQ.pdb
